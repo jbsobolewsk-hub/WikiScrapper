@@ -1,0 +1,6 @@
+beautifulsoup4>=4.12
+requests>=2.31
+numpy>=2.4
+matplotlib>=3.8
+wordfreq>=3.0
+pandas>=2.3
