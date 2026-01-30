@@ -36,9 +36,12 @@ def main() -> None:
 
     else:
         print("No valid arguments provided")
+        exit(1)
 
+    print("All output has been generated from Bulbapedia Wiki at:\n https://bulbapedia.bulbagarden.net")
     exit(0)
 
 
 if __name__ == "__main__":
     main()
+
