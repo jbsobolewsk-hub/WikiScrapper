@@ -50,6 +50,7 @@ wikiscrapper/
 │   └── factory.py
 ├── README.md
 ├── requirements.txt
+├── file_tree.py
 ├── wikiscrapper.py
 ├── wikiscrapper_tests.py
 └── word-counts.json
